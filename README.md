@@ -1,5 +1,7 @@
 # Systematic Portfolio Lab: Momentum vs. Contrarian Strategies 
 
+**[Click here to open the Live App]**
+
 An interactive Python-based web application built with Streamlit to backtest, analyze, and visualize dynamic asset allocation strategies. 
 
 This project explores the intersection of financial theory and data science by comparing static portfolios against systematic rules-based strategies using real-world market data.
