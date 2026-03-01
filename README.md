@@ -1,6 +1,6 @@
 # Systematic Portfolio Lab: Momentum vs. Contrarian Strategies 
 
-**[Click here to open the Live App]**
+**[Click here to open the Live App](https://momentum-vs-meanreversion-portfolio-strategy-gv4trnusub8r9xqfd.streamlit.app/)**
 
 An interactive Python-based web application built with Streamlit to backtest, analyze, and visualize dynamic asset allocation strategies. 
 
